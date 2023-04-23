@@ -18,9 +18,13 @@
 }
 
 @media (max-width:768px) {
-.link { text-align: center;
+
+  .link {
+    text-align: center;
+  }
+
 }
-}
+
 .page-element {
   display: block;
   width: 500px;
